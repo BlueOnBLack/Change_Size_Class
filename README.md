@@ -7,6 +7,8 @@ you will have to customize them
 
 locate all files according to your directories
 
+It will support scaling too.
+
 So to begin with ...!
 
 ## A. First Set these values
