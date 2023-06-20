@@ -1,4 +1,4 @@
-# Change Size batch File demo
+# Change Windows Size via batch File For Terminal / Conhost
 Change Size In Console / Terminal
 
 Add some demos from the script I made
