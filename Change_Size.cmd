@@ -1,3 +1,20 @@
+>>>>>>>>>>>>>>>>>
+Add  these lines,
+before the script Load.
+>>>>>>>>>>>>>>>>>
+
+:: ~~~~~~~~~~~~~~~
+set X_PERCEN=1
+set C_FACTOR=8.15
+set C_PERCEN=1.10
+set L_FACTOR=17.3
+set L_PERCEN=1.17
+:: ~~~~~~~~~~~~~~~
+
+>>>>>>>>>>>>>>>>>
+   Main Functions
+>>>>>>>>>>>>>>>>>
+
 :Change_Size
 if defined AutoTask exit /b
 if defined terminalFound (
