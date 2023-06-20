@@ -19,5 +19,9 @@ L_PERCEN=1.17
 ```
 ## B. Call this function
 ```
-XXXXXXXXX
+First Function.
+:Terminal_Handle_Check
+
+Second Function.
+:Change_Size
 ```
