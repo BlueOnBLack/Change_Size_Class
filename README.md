@@ -7,10 +7,8 @@ you will have to customize them
 
 locate all files according to your directories
 
-**
-A. First Set these values.
-**
-```
+**A. First Set these values.
+**```
 X_PERCEN=1
 C_FACTOR=8.15
 C_PERCEN=1.10
