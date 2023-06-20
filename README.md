@@ -10,6 +10,9 @@ locate all files according to your directories
 It will support scaling too.
 
 So to begin with ...!
+## Cons And Pros
+- it will fail if a custom font size is applied
+- it will work under terminal v12 - v18 Prev
 
 ## A. First Set these values
 ```
