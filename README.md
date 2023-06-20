@@ -28,5 +28,5 @@ First Function.
 :Terminal_Handle_Check
 
 Second Function.
-:Change_Size
+:Change_Size X Y
 ```
